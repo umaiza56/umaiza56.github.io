@@ -1,0 +1,44 @@
+        h2{
+            font-size:40px;
+            color:#cea21e;
+            text-align:center;
+        }
+
+        h3{
+            font-size:30px;
+            color:#f6921e;
+        }
+
+        p{
+            font-size:22px;
+        }
+        a{
+           font-size:35px;
+           color:#fca103;
+        }
+
+        #mainContent{
+            width:80%;
+            margin: 0 auto;
+        }
+
+        .bg1{
+            background-color:#20344f;
+        }
+
+        .bg2{
+            background-color:#516176;
+        }
+
+        .bg1, .bg2{
+            color:white;
+            padding:15px;
+        }
+
+        .icon{
+            width: 10%;
+            float: left;
+            padding: 10px:
+            padding-top: 20px;
+            padding-right:20px;
+        }
